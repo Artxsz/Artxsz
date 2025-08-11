@@ -3,18 +3,18 @@
 
 <p>Sou estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia e movido por desafios. Tenho experiência com .NET, PHP e SQLServer, além de conhecimentos em desenvolvimento Front-End.</p> 
 
----
-
-## 🛠 Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 <img src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" alt="Trabalhando" align="right" width="200"/>
 
+<!-- Primeira fileira -->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
 
+<!-- Segunda fileira -->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/> 
@@ -26,39 +26,9 @@
 
 ---
 
-> **Nota:** O gráfico de linguagens mostra as que mais uso no GitHub, não representa nível de habilidade.  
-> Feito com [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRodrigues&layout=compact&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRodrigues&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRodrigues&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRodrigues&layout=compact&langs_count=7&theme=radical"/>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurRodrigues&theme=radical&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
----
-
-## 📌 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/ArthurRodrigues/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurRodrigues&repo=github-readme-stats&theme=radical" />
-  </a>
-  <a href="https://github.com/ArthurRodrigues/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurRodrigues&repo=portfolio&theme=radical" />
-  </a>
-</p>
-
----
-
-## 🌐 Contato
-
-<a href="https://www.linkedin.com/in/arthurrodrigues" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:arthur@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
