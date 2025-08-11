@@ -1,7 +1,7 @@
 # Printf("Hello World!");👋 Me chamo Arthur!! 
 ## Bem-vindo ao meu perfil GitHub 💻
 
-<p>Sou estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia e movido por desafios. Tenho experiência com .NET, PHP e SQLServer, além de conhecimentos em desenvolvimento Front-End e Back-End. </p> 
+<p>Sou estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia e movido por desafios. Tenho experiência com .NET, PHP e SQLServer, além de conhecimentos em desenvolvimento Front-End.</p> 
 
 ## Ferramentas e Tecnologias
 
@@ -28,6 +28,20 @@
 <!-- Extra -->
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+</p>
+
+---
+
+## 📬 Contato
+
+<a href="http://www.linkedin.com/in/arthur-do-vale-rodrigues" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:arthuravr1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+zy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 </p>
 
