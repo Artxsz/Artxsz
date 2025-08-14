@@ -1,7 +1,7 @@
 # System.out.println("Hello, World! Eu sou o Arthur!");
 ## Bem-vindo ao meu perfil GitHub 💻
 
-<p>Sou estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia e movido por desafios. Tenho experiência com .NET, PHP e SQLServer, além de conhecimentos em desenvolvimento Front-End e Back-End.</p> 
+<p>Sou estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia e movido por desafios. Tenho experiência com .NET, PHP e MySQL, além de conhecimentos em desenvolvimento Front-End e Back-End.</p> 
 
 ## Ferramentas e Tecnologias
 
