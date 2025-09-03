@@ -1,11 +1,11 @@
-# System.out.println("Hello, World! Eu sou o Arthur!");
-## Bem-vindo ao meu perfil GitHub 💻
+# System.out.println("Hello, World! I'm Arthur!");
+## Welcome to my GitHub profile 💻
 
-<p>Sou estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia e movido por desafios. Tenho experiência com .NET, PHP e MySQL, além de conhecimentos em desenvolvimento Front-End e Back-End.</p> 
+<p>I am a student of Multiplatform Software Development, passionate about technology and driven by challenges. I have experience with .NET, PHP, and MySQL, as well as knowledge in both Front-End and Back-End development.</p>
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
-<!-- Primeira fileira -->
+<!-- First row -->
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -13,7 +13,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
 </p>
 
-<!-- Segunda fileira -->
+<!-- Second row -->
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 </p>
 
-## 🚀 Em Desenvolvimento
+## 🚀 In Development
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
@@ -30,7 +30,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </p>
 
-## 📬 Contato
+## 📬 Contact
 
 <p align="left">
   <a href="http://www.linkedin.com/in/arthur-do-vale-rodrigues" target="_blank">
